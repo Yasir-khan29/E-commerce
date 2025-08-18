@@ -6,9 +6,7 @@ A modern and responsive **E-commerce landing page** built using **HTML** and **C
 
 ## 🔍 Preview
 
-> *(Add screenshots in a `Screenshots/` folder and link them below)*
-```md
-![Homepage Preview](https://github.com/Yasir-khan29/E-commerce/blob/main/Screenshots/homepage.png?raw=true)
+![Homepage Preview](https://github.com/Yasir-khan29/E-commerce/blob/main/hero_image.jpg?raw=true)
 ```
 
 ---
